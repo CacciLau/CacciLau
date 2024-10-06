@@ -4,7 +4,7 @@ I'm a senior at John Jay college majoring in Computer Science and Information Se
 
 Here on my github you can find my personal projects and study notes.
 
-# 😃 Connect With Me
+# Connect With Me 😃
 <p align="center">
   <a href="https://www.linkedin.com/in/caccilaujj/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
